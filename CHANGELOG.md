@@ -1,7 +1,9 @@
 <a name="1.0.0"></a>
 # 1.0.0 (2017-07-16)
 
-* docs: add changelog ([2f0cd5d](https://github.com/eyolas/jest-serializer-supertest/commit/2f0cd5d))
+* docs: add changelog ([9048dc6](https://github.com/eyolas/jest-serializer-supertest/commit/9048dc6))
+* docs: update changelog ([a0b8fdf](https://github.com/eyolas/jest-serializer-supertest/commit/a0b8fdf))
+* chore(package): correction scripts ([cfeba1b](https://github.com/eyolas/jest-serializer-supertest/commit/cfeba1b))
 * feat: delete lib on gitignore ([0413b08](https://github.com/eyolas/jest-serializer-supertest/commit/0413b08))
 * feat: first commit ([1acf382](https://github.com/eyolas/jest-serializer-supertest/commit/1acf382))
 

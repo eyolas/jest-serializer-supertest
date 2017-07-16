@@ -30,7 +30,7 @@
   "scripts": {
     "changelog": "conventional-changelog -i  CHANGELOG.md -s",
     "precommit": "lint-staged",
-    "build-test": "",
+    "build-test": "npm run prettier",
     "prepublish": "publish-please guard",
     "prettier": "prettier --single-quote --write --parser typescript {src,test}/**/*.ts",
     "publish-please": "publish-please"

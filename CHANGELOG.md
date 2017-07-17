@@ -1,3 +1,11 @@
+<a name="1.2.0"></a>
+# 1.2.0 (2017-07-17)
+
+* chore(package): bump version ([21a45f0](https://github.com/eyolas/jest-serializer-supertest/commit/21a45f0))
+* fix: Clone the value ([9c6ecba](https://github.com/eyolas/jest-serializer-supertest/commit/9c6ecba))
+
+
+
 <a name="1.1.0"></a>
 # 1.1.0 (2017-07-17)
 

@@ -1,3 +1,11 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2017-07-17)
+
+* chore(package): Bump version ([b81bf76](https://github.com/eyolas/jest-serializer-supertest/commit/b81bf76))
+* feat(serializer): use defineProperty with enumerable false ([9871a89](https://github.com/eyolas/jest-serializer-supertest/commit/9871a89))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2017-07-16)
 

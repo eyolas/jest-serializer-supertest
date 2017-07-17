@@ -28,5 +28,5 @@ const serializer = require('jest-serializer-supertest')
 expect.addSnapshotSerializer(serializer)
 ```
 
-[npm-image]: https://img.shields.io/npm/v/jest-serializer-path.svg?style=flat-square
-[npm-url]: https://github.com/eyolas/jest-serializer-path
+[npm-image]: https://img.shields.io/npm/v/jest-serializer-supertest.svg?style=flat-square
+[npm-url]: https://github.com/eyolas/jest-serializer-supertest

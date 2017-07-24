@@ -1,3 +1,11 @@
+<a name="1.3.0"></a>
+# 1.3.0 (2017-07-24)
+
+* chore: bump version ([d8c168a](https://github.com/eyolas/jest-serializer-supertest/commit/d8c168a))
+* fix: change assign ([7a419d8](https://github.com/eyolas/jest-serializer-supertest/commit/7a419d8))
+
+
+
 <a name="1.2.0"></a>
 # 1.2.0 (2017-07-17)
 

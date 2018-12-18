@@ -31,7 +31,7 @@
     "changelog": "conventional-changelog -i  CHANGELOG.md -s",
     "build-test": "npm run prettier",
     "prepublish": "publish-please guard",
-    "prettier": "prettier --single-quote --write --parser typescript {src,test}/**/*.ts",
+    "prettier": "prettier --single-quote --write lib/*.js",
     "publish-please": "publish-please"
   },
   "lint-staged": {

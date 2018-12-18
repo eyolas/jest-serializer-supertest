@@ -1,6 +1,6 @@
 {
   "name": "jest-serializer-supertest",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "description": "Remove date and url from your supertest response Jest snapshots",
   "main": "lib/index.js",
   "repository": {
